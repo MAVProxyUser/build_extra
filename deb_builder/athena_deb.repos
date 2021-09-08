@@ -1,0 +1,23 @@
+repositories:
+    athena_foxy_deb:
+        type: git
+        url: git@git.n.xiaomi.com:mirp/athena_foxy_deb.git
+        version: master
+    athena_ros2_deb:
+        type: git
+        url: git@git.n.xiaomi.com:mirp/athena_ros2_deb.git
+    athena_sensor_deb:
+        type: git
+        url: git@git.n.xiaomi.com:mirp/athena_sensor_deb.git
+    athena_factory_deb:
+        type: git
+        url: git@git.n.xiaomi.com:mirp/athena_factory_deb.git
+    athena_version_deb:
+        type: git
+        url: git@git.n.xiaomi.com:mirp/athena_version_deb.git
+    athena_ota_server_deb:
+        type: git
+        url: git@git.n.xiaomi.com:mirp/athena_ota_server_deb.git
+    athena_sys_config_deb:
+        type: git
+        url: git@git.n.xiaomi.com:mirp/athena_sys_config_deb.git

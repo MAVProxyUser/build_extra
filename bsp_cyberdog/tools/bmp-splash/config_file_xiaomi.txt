@@ -1,0 +1,3 @@
+./bmp_files/xiaomi_720x480.bmp nvidia 480;
+./bmp_files/xiaomi_1280x720.bmp nvidia 720;
+./bmp_files/xiaomi_1920x1080.bmp nvidia 1080

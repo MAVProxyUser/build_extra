@@ -1,0 +1,15 @@
+{
+"motion-control" : "0.0.0_0000",
+"head" : "00000000",
+"bot" : "00000000",
+"rear" : "00000000",
+"athena-version" : "0.0.0.0",
+"athena-foxy-lib" : "0.0.0",
+"athena-ota-server" : "0.0.0",
+"athena-ros2" : "0.0.0",
+"athena-sensor" : "0.0.0",
+"athena-sys-config" : "0.0.0",
+"dobot-bootloader" : "32.5.0-20210115151051+1.0.32",
+"dobot-kernel-headers" : "4.9.201-32.5.0-20210115151051+1.0.32",
+"dobot-kernel-modules" : "4.9.201-32.5.0-20210115151051+1.0.32"
+}
